@@ -22,7 +22,7 @@ Google Apps Script (GAS) と X API を連携させ、スプレッドシートか
 - **言語**: Google Apps Script (JavaScript)
 - **API**: X API v2 (OAuth 1.0a / 2.0)
 - **データベース**: Google Spreadsheets
-- **実行環境**: Google Apps Scrip 
+- **実行環境**: Google Apps Script 
 
 ## 🛡️ セキュリティと実運用における設計思想
 本リポジトリで公開しているコードは、機密情報の保護および汎用的な設計思想の提示を目的とした**「プロフェッショナル・サンプル」**です。
