@@ -31,6 +31,8 @@
 
 ### 💻 技術スタック（Languages & Tools）
 - **Languages**: **Python** (業務自動化・データ加工), **JavaScript / Google Apps Script (GAS)** (Workspace連携), **VBA** (Excel高度化), **SQL** (データ抽出・分析)
+- **Cloud & Infrastructure**: **AWS** (Lambda, S3 等を活用したサーバーレス構成・スケーラビリティ確保)
+- **AI-Driven Development**: **Claude Code**, **Amazon Q Developer** 等の AI ツールを駆使した超高速開発・デバッグ
 - **Platforms**: Google Workspace, Microsoft 365, X API, Discord API
 - **Others**: 業務プロセス自動化 (BPA), セールス・イネーブルメント, 顧客データ活用 (CRM/SFA連携)
 
