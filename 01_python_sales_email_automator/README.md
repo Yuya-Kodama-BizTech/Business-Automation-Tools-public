@@ -23,6 +23,7 @@
 - **インフラ/サービス**: 
   - **Gmail / Outlook (Microsoft 365)** SMTP Server
   - Excel (データソース)
+  - jupterlab
 
 ## 🛡️ セキュリティと実運用における設計思想
 本リポジトリで公開しているコードは、機密情報の保護および汎用的な設計思想の提示を目的とした**「プロフェッショナル・サンプル」**です。
@@ -38,3 +39,14 @@
 - **法令遵守**: 送信にあたっては、特定電子メール法を遵守した運用を前提としています。
 
 - - 📝 デモ画像・動画
+  - Pythonのライブラリや開発ツールを一括で管理する総合環境のAnaconda環境を構築。
+  - 作成したツールのボタンを押すとエクセルをDB代わりに、会社名メールアドレスを抽出して自動で営業メールを送信する。
+  - <video src="https://github.com/user-attachments/assets/0e2e8cdb-bced-4570-9827-850e829e1eea" width="100%" controls></video>
+
+　-実際に自動でシステムが稼働した結果、連携メールアドレスの送信欄にも上記システムでの自動営業メールの送信履歴が反映。
+  - <video src="https://github.com/user-attachments/assets/305982cd-1be9-470c-8a71-ee411e6101a0" width="100%" controls></video>
+  
+
+
+
+
