@@ -33,9 +33,11 @@
 
 - - 📝 デモ画像・動画
   - ExcelVBAで作成したツールのボタンを押すと自動で請求書が発行される。
-  - https://github.com/user-attachments/assets/1e48b56b-a61a-4dd9-8578-9ec8457e2db9
+  - <video src="https://github.com/user-attachments/assets/1e48b56b-a61a-4dd9-8578-9ec8457e2db9" width="100%" controls></video>
+  
   - 指定したディレクトリに上記で発行された請求書が自動でPDF形式で格納される。
-  - https://github.com/user-attachments/assets/0b401628-6466-4f1d-8866-70f23632a06c
+  - <video src="https://github.com/user-attachments/assets/0b401628-6466-4f1d-8866-70f23632a06c" width="100%" controls></video>
+  
 
 
 
