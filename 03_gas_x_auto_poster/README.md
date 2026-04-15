@@ -45,7 +45,7 @@ Google Apps Script (GAS) と X API を連携させ、スプレッドシートか
 
 - <img width="287" height="266" alt="も自動投稿ツールスプレッドシート内蔵2モザイク処理アリ" src="https://github.com/user-attachments/assets/f2ea6351-8890-455a-9116-e29a38307518" />
 
-※↓ツール実装後、日付欄4月1日、4月10日等に注目
+※↓ツール実装後、日付欄4月1日、4月10日等に注目、モザイク加工はしてあるが同内容の投稿の完全自動化を実現。
 - <img width="298" height="425" alt="しののめスクショ4月1日～4月３モザイク処理あり" src="https://github.com/user-attachments/assets/c7cba1e6-6d25-4af4-ac40-216e7d02e0f8" />
 
 - <img width="301" height="433" alt="しののめスクショ4月8日～4月10" src="https://github.com/user-attachments/assets/d6a68327-ce2d-47bb-a214-7f8ede3eb711" />
