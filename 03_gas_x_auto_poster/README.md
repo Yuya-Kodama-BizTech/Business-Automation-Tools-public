@@ -42,10 +42,12 @@ Google Apps Script (GAS) と X API を連携させ、スプレッドシートか
 【導入効果】手作業で1時間かかる送信作業を、自動で完結。手動リスクによるヒューマンエラーをゼロへ。
 ※↓ツールキャプチャ
 <img width="500" height="271" alt="自動投稿ツールスプレッドシート内蔵モザイク処理アリ" src="https://github.com/user-attachments/assets/964e9964-10fd-4c71-bf6a-1e91f158e400" />
+
 <img width="287" height="266" alt="も自動投稿ツールスプレッドシート内蔵2モザイク処理アリ" src="https://github.com/user-attachments/assets/f2ea6351-8890-455a-9116-e29a38307518" />
 
 ※↓ツール実装後、日付欄4月1日、4月10日等に注目
 <img width="298" height="425" alt="しののめスクショ4月1日～4月３モザイク処理あり" src="https://github.com/user-attachments/assets/c7cba1e6-6d25-4af4-ac40-216e7d02e0f8" />
+
 <img width="301" height="433" alt="しののめスクショ4月8日～4月10" src="https://github.com/user-attachments/assets/d6a68327-ce2d-47bb-a214-7f8ede3eb711" />
 
 
